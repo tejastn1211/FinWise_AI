@@ -26,8 +26,8 @@ Workflow & Security: Inngest, ArcJet
 Email Service: Resend API
 
 1. Clone the repository
-git clone https://github.com/your-username/finwise-ai.git
-cd finwise-ai
+git clone https://github.com/tejastn1211/FinWise_AI.git
+cd FinWise_AI
 
 2. Install dependencies :
 npm install
@@ -62,8 +62,7 @@ Multi-currency support
 Advanced data visualization dashboards
 
 Screenshots:
-
-
+<img width="1876" height="482" alt="Screenshot 2025-09-09 202151" src="https://github.com/user-attachments/assets/e0ee5bb1-5acb-499b-a9ca-59f245b2e9df" />
 
 This project is built for educational and portfolio purposes.
 
