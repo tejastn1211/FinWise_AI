@@ -62,7 +62,11 @@ Multi-currency support
 Advanced data visualization dashboards
 
 Screenshots:
+<img width="1876" height="482" alt="Screenshot 2025-09-09 202151" src="https://github.com/user-attachments/assets/11dde4dc-995f-474a-9b5e-1feed1ba987b" />
+<img width="1892" height="858" alt="Screenshot 2025-09-09 201852" src="https://github.com/user-attachments/assets/eb00429d-d8e3-4731-8e20-4408b97ce8a9" />
+<img width="1896" height="864" alt="Screenshot 2025-09-09 201915" src="https://github.com/user-attachments/assets/b567628c-82ac-4119-b3d3-e6831b623461" />
 <img width="1876" height="482" alt="Screenshot 2025-09-09 202151" src="https://github.com/user-attachments/assets/e0ee5bb1-5acb-499b-a9ca-59f245b2e9df" />
+
 
 This project is built for educational and portfolio purposes.
 
