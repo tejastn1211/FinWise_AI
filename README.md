@@ -56,10 +56,10 @@ npm run dev
 
 
 Future Enhancements :
-# Integration with real bank APIs for live transaction imports
-# AI-powered savings & investment suggestions
-# Multi-currency support
-# Advanced data visualization dashboards
+Integration with real bank APIs for live transaction imports
+AI-powered savings & investment suggestions
+Multi-currency support
+Advanced data visualization dashboards
 
 Screenshots:
 <img width="1893" height="847" alt="Screenshot 2025-09-09 201815" src="https://github.com/user-attachments/assets/93b4d1f0-9940-4bcf-aca8-e75fba7c692c" />
