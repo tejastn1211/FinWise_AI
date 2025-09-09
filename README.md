@@ -1,0 +1,69 @@
+FinWise Ai – AI-Powered Finance Management Platform
+
+FinWise Ai is a modern full-stack application that helps users take control of their personal finances using the power of AI. The platform provides budget tracking, expense analysis, and financial insights in a clean, intuitive interface.
+
+Built with Next.js, Tailwind CSS, Prisma, Supabase, and Clerk authentication, the app integrates AI-driven features to deliver real-time analytics and smarter decision-making for everyday financial management.
+
+
+✨ Features :
+
+📊 Smart Expense Tracking – Log and categorize transactions effortlessly.
+🤖 AI Insights – Get spending analysis, patterns, and personalized recommendations.
+🔒 Secure Authentication – User login and signup powered by Clerk.
+💾 Reliable Database – Supabase + Prisma for seamless data storage and queries.
+📧 Email Integration – Notifications and updates via Resend API.
+⚡ Serverless Workflows – Inngest & ArcJet to handle automation and protection.
+🎨 Modern UI – Beautiful interface styled with Tailwind CSS + shadcn UI.
+
+
+🛠️ Tech Stack :
+
+Frontend: Next.js (App Router), Tailwind CSS, shadcn UI
+Backend: Prisma ORM, Supabase
+Authentication: Clerk
+AI Integration: Gemini API
+Workflow & Security: Inngest, ArcJet
+Email Service: Resend API
+
+1. Clone the repository
+git clone https://github.com/your-username/finwise-ai.git
+cd finwise-ai
+
+2. Install dependencies :
+npm install
+
+3. Setup environment variables
+Create a .env file in the root folder and add the following keys:
+
+DATABASE_URL=
+DIRECT_URL=
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+
+GEMINI_API_KEY=
+
+RESEND_API_KEY=
+
+ARCJET_KEY=
+
+4. Run the development server
+npm run dev
+
+
+Future Enhancements :
+Integration with real bank APIs for live transaction imports
+AI-powered savings & investment suggestions
+Multi-currency support
+Advanced data visualization dashboards
+
+Screenshots:
+
+
+
+This project is built for educational and portfolio purposes.
+
